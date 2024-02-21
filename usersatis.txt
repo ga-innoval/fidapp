@@ -1,0 +1,8 @@
+Accessing credentials for innoval in project usersatis
+Saving Keystore to /Users/rigobertorascon/Projects/react-native/usersatis/usersatis.jks
+Keystore credentials
+Keystore password: 99fa6b5245714c5998750e94a11e0254
+Key alias: QGlubm92YWwvdXNlcnNhdGlz
+Key password: 0f9cd80aff4344279cbaffc3a92697e4
+
+Path to Keystore: /Users/rigobertorascon/Projects/react-native/usersatis/usersatis.jks
